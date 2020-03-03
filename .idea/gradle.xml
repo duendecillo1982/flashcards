@@ -12,6 +12,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Flashcards/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/Sorting numbers" />
+            <option value="$PROJECT_DIR$/Problems (2)/Sorting numbers" />
+            <option value="$PROJECT_DIR$/Problems (3)/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Problems (4)/Calculator - 1" />
+            <option value="$PROJECT_DIR$/Problems (5)/The index of an argument" />
+            <option value="$PROJECT_DIR$/Problems (6)/Calculator - 2" />
             <option value="$PROJECT_DIR$/Problems/Find the nearest number" />
             <option value="$PROJECT_DIR$/util" />
           </set>

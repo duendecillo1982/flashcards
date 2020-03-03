@@ -6,6 +6,18 @@
       <module name="Flashcards-task_test" target="11" />
       <module name="Problems-Find_the_nearest_number_main" target="11" />
       <module name="Problems-Find_the_nearest_number_test" target="11" />
+      <module name="Problems__1_-Sorting_numbers_main" target="11" />
+      <module name="Problems__1_-Sorting_numbers_test" target="11" />
+      <module name="Problems__2_-Sorting_numbers_main" target="11" />
+      <module name="Problems__2_-Sorting_numbers_test" target="11" />
+      <module name="Problems__3_-Get_first_and_last_elements_main" target="11" />
+      <module name="Problems__3_-Get_first_and_last_elements_test" target="11" />
+      <module name="Problems__4_-Calculator_-_1_main" target="11" />
+      <module name="Problems__4_-Calculator_-_1_test" target="11" />
+      <module name="Problems__5_-The_index_of_an_argument_main" target="11" />
+      <module name="Problems__5_-The_index_of_an_argument_test" target="11" />
+      <module name="Problems__6_-Calculator_-_2_main" target="11" />
+      <module name="Problems__6_-Calculator_-_2_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>

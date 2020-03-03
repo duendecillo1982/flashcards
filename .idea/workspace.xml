@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="458b5e02-03dc-4a9a-a6fd-474b47bfd09d" name="Default Changelist" comment="" />
+    <list default="true" id="458b5e02-03dc-4a9a-a6fd-474b47bfd09d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Sorting numbers/Problems__1_-Sorting_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Sorting numbers/Problems__1_-Sorting_numbers_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Sorting numbers/Problems__1_-Sorting_numbers_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/IMPORTant/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/IMPORTant/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/task/capitals.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/capitals.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/task/src/flashcards/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/src/flashcards/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/task/src/flashcards/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/src/flashcards/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/task/src/flashcards/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/src/flashcards/UserInterface.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +40,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XyzfvRS6iqmApJUe1EQzhTtZTC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,9 +54,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Flashcards-task_main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems__2_-Sorting_numbers_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Find_the_nearest_number_main" />
@@ -39,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -69,33 +105,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1583142784050">
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1583229910033">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583142784050" />
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583229910033" />
     <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582033727219">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/-333.-1039.1280.994/947.-1024.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1582033727219" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1583156042077">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1583230558073">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.bottom/-333.-1039.1280.994/947.-1024.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1582638676710" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583156042077" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1583156042077">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583230558073" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1583230558072">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.center/-333.-1039.1280.994/947.-1024.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1582638676710" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583156042077" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1583156042077">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583230558072" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1583230558072">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.left/-333.-1039.1280.994/947.-1024.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1582638676710" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583156042077" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1583156042077">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583230558072" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1583230558073">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.right/-333.-1039.1280.994/947.-1024.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1582638676710" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583156042077" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-333.-1039.1280.994/947.-1024.1280.994@0.0.1920.1050" timestamp="1583230558073" />
   </component>
 </project>

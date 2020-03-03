@@ -237,4 +237,45 @@ public class UserInterface {
             }
         }
     }
+
+    public void prepareImport(String fileName) {
+        File file = new File(fileName);
+        int count = 0;
+        try {
+            Scanner fileScanner = new Scanner(file);
+            while (fileScanner.hasNext()) {
+                String term = fileScanner.nextLine();
+                String definition = fileScanner.nextLine();
+                int mistakes = Integer.valueOf(fileScanner.nextLine());
+                cards.addCard(term, definition, mistakes);
+                count++;
+            }
+            System.out.println(count + " cards have been loaded.");
+            log.add(count + " cards have been loaded.");
+        } catch (FileNotFoundException e) {
+            System.out.println("File not found.");
+            log.add("File not found.");
+        }
+    }
+
+    public void finalExport(String fileName) {
+        int count = 0;
+        try (PrintWriter printer = new PrintWriter(fileName)) {
+            ArrayList<Card> exportCards = cards.getCards();
+            for (Card card: exportCards) {
+                String term = card.getTerm();
+                String definition = card.getDefinition();
+                int mistakes = card.getMistakes();
+                printer.println(term);
+                printer.println(definition);
+                printer.println(mistakes);
+                count++;
+            }
+            System.out.println(count + " cards have been saved.");
+            log.add(count + " cards have been saved.");
+        } catch (IOException e) {
+            System.out.println("Something went wrong");
+            log.add("Something went wrong");
+        }
+    }
 }
